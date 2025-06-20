@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Alex's Animal Sanctuary Ledger</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fcfcf7;
+      color: #333;
+      max-width: 800px;
+      margin: auto;
+      padding: 2em;
+    }
+    h1 {
+      text-align: center;
+      color: #2b512b;
+    }
+    .section {
+      margin-bottom: 2em;
+    }
+    .quote {
+      font-style: italic;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>Alex's Animal Sanctuary Ledger</h1>
+
+  <div class="section">
+    <h2>🌱 Purpose</h2>
+    <p>This page exists to quietly record the progress of a dream — the creation of a sanctuary for animals in São Francisco do Glória, Minas Gerais, Brazil. It's not about fame. It's about healing, helping, and doing something real in a world that often feels upside down.</p>
+  </div>
+
+  <div class="section">
+    <h2>📍 Location</h2>
+    <p>Family farm in São Francisco do Glória, MG — Brazil (CEP 35352-000).</p>
+  </div>
+
+  <div class="section">
+    <h2>🧱 Phase 1: Online Foundation</h2>
+    <ul>
+      <li>✓ Set up a private online ledger (this page)</li>
+      <li>□ Begin income generation without showing face</li>
+      <li>□ Save for basic tools: satellite internet, shelter, food, care</li>
+      <li>□ Begin preparing land for safe spaces</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>🐾 Why This Matters</h2>
+    <p>Animals can't choose. People can. This sanctuary is a way to give a peaceful life to creatures who have only known suffering. Castration, rescue, shelter, and healing — all of it with love, honesty, and no tricks.</p>
+  </div>
+
+  <div class="section quote">
+    <p>"You don't need to be famous to do something meaningful. You just need to care enough to begin." — Alex</p>
+  </div>
+</body>
+</html>
